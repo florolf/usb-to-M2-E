@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TI_TPSM86325x")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/TI_TPSM86325x.kicad_sym")(options "")(descr ""))
+)
